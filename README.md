@@ -1,0 +1,1 @@
+# smartwatch-weather-checking
