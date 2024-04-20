@@ -1,6 +1,6 @@
 # Data Visualization of Smartwatch Weather Checking Preferences
 <p align="center">
-  <img src="https://i.pinimg.com/564x/bd/a0/3c/bda03c5a7eaea92a4bfcf7f91f06c32b.jpg" alt="Formula 1" width="400">
+  <img src="https://i.pinimg.com/564x/bd/a0/3c/bda03c5a7eaea92a4bfcf7f91f06c32b.jpg" alt="Smartwatch" width="400">
 </p>
 ## Overview
 This repository contains Python code for visualizing survey responses regarding the likelihood of checking weather on a smartwatch, segmented by age group and US region. The dataset includes responses on a Likert scale.
